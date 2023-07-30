@@ -1,0 +1,721 @@
+2023-07-20 23:32:07,678 - 11March_Framework -INFO - Open Browser
+2023-07-20 23:32:07,831 - 11March_Framework -INFO - Maximize the browser
+2023-07-20 23:32:10,901 - 11March_Framework -INFO - Open application
+2023-07-21 13:59:54,415 - 11March_Framework -INFO - Open Browser
+2023-07-21 13:59:54,552 - 11March_Framework -INFO - Maximize the browser
+2023-07-21 13:59:58,840 - 11March_Framework -INFO - Open application
+2023-07-23 18:58:03,340 - 11March_Framework -INFO - Open Browser
+2023-07-23 18:58:03,495 - 11March_Framework -INFO - Maximize the browser
+2023-07-23 18:58:05,589 - 11March_Framework -INFO - Open application
+2023-07-23 18:58:05,758 - 11March_Framework -INFO - Enter the user email
+2023-07-23 18:58:07,871 - 11March_Framework -INFO - Enter the user Password
+2023-07-23 18:58:09,240 - 11March_Framework -INFO - Click on the login button
+2023-07-23 19:01:45,056 - 11March_Framework -INFO - Open Browser
+2023-07-23 19:01:45,219 - 11March_Framework -INFO - Maximize the browser
+2023-07-23 19:01:47,054 - 11March_Framework -INFO - Open application
+2023-07-23 19:01:47,210 - 11March_Framework -INFO - Enter the user email
+2023-07-23 19:01:49,349 - 11March_Framework -INFO - Enter the user Password
+2023-07-23 19:01:51,337 - 11March_Framework -INFO - Click on the login button
+2023-07-23 19:01:51,368 - 11March_Framework -INFO - Login test case pass
+2023-07-25 15:16:23,887 - 11March_Framework -INFO - Open Browser
+2023-07-25 15:16:24,020 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 15:16:26,668 - 11March_Framework -INFO - Open application
+2023-07-25 15:16:26,925 - 11March_Framework -INFO - Enter the user email
+2023-07-25 15:16:29,069 - 11March_Framework -INFO - Enter the user Password
+2023-07-25 15:16:30,532 - 11March_Framework -INFO - Click on the login button
+2023-07-25 15:16:35,252 - 11March_Framework -INFO - Open Browser
+2023-07-25 15:16:35,392 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 15:16:38,801 - 11March_Framework -INFO - Open application
+2023-07-25 15:16:47,511 - 11March_Framework -INFO - Open Browser
+2023-07-25 15:16:47,690 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 15:16:50,665 - 11March_Framework -INFO - Open application
+2023-07-25 15:18:23,511 - 11March_Framework -INFO - Open Browser
+2023-07-25 15:18:23,737 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 15:18:25,467 - 11March_Framework -INFO - Open application
+2023-07-25 15:18:25,474 - 11March_Framework -INFO - Open URL
+2023-07-25 15:18:28,612 - 11March_Framework -INFO - Enter User mail
+2023-07-25 15:18:31,735 - 11March_Framework -INFO - Enter User password
+2023-07-25 15:18:35,397 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 15:18:38,696 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 16:36:15,694 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:36:15,849 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:36:17,897 - 11March_Framework -INFO - Open application
+2023-07-25 16:36:18,070 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:36:20,190 - 11March_Framework -INFO - Enter the user Password
+2023-07-25 16:36:22,301 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:36:22,332 - 11March_Framework -INFO - Login test case pass
+2023-07-25 16:36:26,963 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:36:27,114 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:36:28,337 - 11March_Framework -INFO - Open application
+2023-07-25 16:36:36,240 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:36:37,904 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:36:38,055 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:36:39,250 - 11March_Framework -INFO - Open application
+2023-07-25 16:36:39,254 - 11March_Framework -INFO - Open URL
+2023-07-25 16:36:42,409 - 11March_Framework -INFO - Enter User mail
+2023-07-25 16:36:45,550 - 11March_Framework -INFO - Enter User password
+2023-07-25 16:36:51,471 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 16:36:54,721 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 16:36:56,690 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 16:37:03,143 - 11March_Framework -INFO - Product selected
+2023-07-25 16:37:03,234 - 11March_Framework -INFO - Add to cart
+2023-07-25 16:37:03,713 - 11March_Framework -INFO - Verified message
+2023-07-25 16:37:03,806 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 16:37:04,054 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 16:41:16,122 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:41:16,253 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:41:18,321 - 11March_Framework -INFO - Open application
+2023-07-25 16:41:18,497 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:41:20,614 - 11March_Framework -INFO - Enter the user Password
+2023-07-25 16:41:22,248 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:41:22,275 - 11March_Framework -INFO - Login test case pass
+2023-07-25 16:52:29,994 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:52:30,132 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:52:33,106 - 11March_Framework -INFO - Open application
+2023-07-25 16:52:33,264 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:52:35,373 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:52:38,505 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:52:39,992 - 11March_Framework -INFO - Login test case pass
+2023-07-25 16:52:44,567 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:52:44,703 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:52:49,850 - 11March_Framework -INFO - Open application
+2023-07-25 16:52:49,996 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:52:52,107 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:52:55,880 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:53:00,350 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:53:00,471 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:53:03,510 - 11March_Framework -INFO - Open application
+2023-07-25 16:53:03,629 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:53:05,747 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:53:07,191 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:53:11,648 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:53:11,786 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:53:15,744 - 11March_Framework -INFO - Open application
+2023-07-25 16:53:15,882 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:53:18,042 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:53:18,746 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:53:23,240 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:53:23,374 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:53:25,668 - 11March_Framework -INFO - Open application
+2023-07-25 16:53:25,791 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:53:27,913 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:53:28,418 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:55:42,007 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:55:42,147 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:55:44,495 - 11March_Framework -INFO - Open application
+2023-07-25 16:55:44,671 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:55:46,789 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:55:49,298 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:55:50,640 - 11March_Framework -INFO - Login test case pass
+2023-07-25 16:55:55,132 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:55:55,266 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:55:56,853 - 11March_Framework -INFO - Open application
+2023-07-25 16:55:56,962 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:55:59,063 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:55:59,573 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:55:59,729 - 11March_Framework -INFO - Login test case failed
+2023-07-25 16:56:04,267 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:56:04,406 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:56:05,852 - 11March_Framework -INFO - Open application
+2023-07-25 16:56:05,969 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:56:08,077 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:56:08,750 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:56:08,765 - 11March_Framework -INFO - Login test case failed
+2023-07-25 16:56:13,348 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:56:13,479 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:56:14,943 - 11March_Framework -INFO - Open application
+2023-07-25 16:56:15,074 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:56:17,200 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:56:18,615 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:56:18,627 - 11March_Framework -INFO - Login test case failed
+2023-07-25 16:56:23,145 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:56:23,271 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:56:25,932 - 11March_Framework -INFO - Open application
+2023-07-25 16:56:26,042 - 11March_Framework -INFO - Enter the user email
+2023-07-25 16:56:28,154 - 11March_Framework -INFO - Enter the user password
+2023-07-25 16:56:29,573 - 11March_Framework -INFO - Click on the login button
+2023-07-25 16:56:29,586 - 11March_Framework -INFO - Login test case failed
+2023-07-25 16:57:32,514 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:57:32,657 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:57:34,351 - 11March_Framework -INFO - Open application
+2023-07-25 16:58:36,249 - 11March_Framework -INFO - Open Browser
+2023-07-25 16:58:36,401 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 16:58:38,683 - 11March_Framework -INFO - Open application
+2023-07-25 17:01:33,797 - 11March_Framework -INFO - Open Browser
+2023-07-25 17:01:33,950 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 17:01:37,223 - 11March_Framework -INFO - Open application
+2023-07-25 17:01:37,242 - 11March_Framework -INFO - Open URL
+2023-07-25 17:01:40,408 - 11March_Framework -INFO - Enter User mail
+2023-07-25 17:01:43,519 - 11March_Framework -INFO - Enter User password
+2023-07-25 17:01:53,859 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 17:01:57,099 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 17:02:03,181 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 17:02:09,370 - 11March_Framework -INFO - Product selected
+2023-07-25 17:02:09,462 - 11March_Framework -INFO - Add to cart
+2023-07-25 17:02:10,039 - 11March_Framework -INFO - Verified message
+2023-07-25 17:02:10,137 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 17:02:10,373 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 17:14:18,955 - 11March_Framework -INFO - Open Browser
+2023-07-25 17:14:19,098 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 17:14:21,199 - 11March_Framework -INFO - Open application
+2023-07-25 17:14:21,212 - 11March_Framework -INFO - Open URL
+2023-07-25 17:14:24,368 - 11March_Framework -INFO - Enter User mail
+2023-07-25 17:14:27,483 - 11March_Framework -INFO - Enter User password
+2023-07-25 17:14:31,959 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 17:14:35,148 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 17:14:36,907 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 17:14:43,093 - 11March_Framework -INFO - Product selected
+2023-07-25 17:14:43,199 - 11March_Framework -INFO - Add to cart
+2023-07-25 17:14:43,628 - 11March_Framework -INFO - Verified message
+2023-07-25 17:14:43,714 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 17:14:44,191 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 17:17:30,882 - 11March_Framework -INFO - Open Browser
+2023-07-25 17:17:31,011 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 17:18:42,668 - 11March_Framework -INFO - Open Browser
+2023-07-25 17:18:42,811 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 17:19:12,285 - 11March_Framework -INFO - Open Browser
+2023-07-25 17:19:12,422 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 17:19:15,551 - 11March_Framework -INFO - Open application
+2023-07-25 17:19:15,565 - 11March_Framework -INFO - Open URL
+2023-07-25 17:19:18,706 - 11March_Framework -INFO - Enter User mail
+2023-07-25 17:19:21,808 - 11March_Framework -INFO - Enter User password
+2023-07-25 17:19:26,218 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 17:19:29,391 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 17:19:31,459 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 17:19:37,560 - 11March_Framework -INFO - Product selected
+2023-07-25 17:19:37,660 - 11March_Framework -INFO - Add to cart
+2023-07-25 17:19:38,233 - 11March_Framework -INFO - Verified message
+2023-07-25 17:19:38,423 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 17:19:39,054 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:08:41,649 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:08:41,789 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:08:44,149 - 11March_Framework -INFO - Open application
+2023-07-25 18:08:44,162 - 11March_Framework -INFO - Open URL
+2023-07-25 18:08:47,346 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:08:50,444 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:08:55,227 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:08:58,441 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:08:59,712 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:09:06,238 - 11March_Framework -INFO - Product selected
+2023-07-25 18:09:06,364 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:09:06,983 - 11March_Framework -INFO - Verified message
+2023-07-25 18:09:07,058 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:09:07,757 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:17:46,014 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:17:46,159 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:17:48,610 - 11March_Framework -INFO - Open application
+2023-07-25 18:17:48,640 - 11March_Framework -INFO - Open URL
+2023-07-25 18:17:51,853 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:17:54,969 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:17:58,681 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:18:01,999 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:18:03,371 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:18:09,470 - 11March_Framework -INFO - Product selected
+2023-07-25 18:18:09,590 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:18:10,202 - 11March_Framework -INFO - Verified message
+2023-07-25 18:18:10,447 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:18:10,965 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:24:14,636 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:24:14,766 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:24:23,569 - 11March_Framework -INFO - Open application
+2023-07-25 18:24:23,589 - 11March_Framework -INFO - Open URL
+2023-07-25 18:24:26,760 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:24:29,866 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:24:35,157 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:24:38,315 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:24:42,408 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:24:50,008 - 11March_Framework -INFO - Product selected
+2023-07-25 18:24:50,096 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:24:51,275 - 11March_Framework -INFO - Verified message
+2023-07-25 18:24:51,354 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:24:51,784 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:28:05,066 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:28:05,192 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:28:08,886 - 11March_Framework -INFO - Open application
+2023-07-25 18:28:08,907 - 11March_Framework -INFO - Open URL
+2023-07-25 18:28:12,094 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:28:15,207 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:28:19,506 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:28:22,712 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:28:23,536 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:28:30,205 - 11March_Framework -INFO - Product selected
+2023-07-25 18:28:30,315 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:28:31,667 - 11March_Framework -INFO - Verified message
+2023-07-25 18:28:32,085 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:28:32,734 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:32:10,079 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:32:10,214 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:32:13,389 - 11March_Framework -INFO - Open application
+2023-07-25 18:32:13,406 - 11March_Framework -INFO - Open URL
+2023-07-25 18:32:16,576 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:32:19,712 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:32:25,258 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:32:28,430 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:32:29,914 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:32:36,388 - 11March_Framework -INFO - Product selected
+2023-07-25 18:32:36,481 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:32:36,965 - 11March_Framework -INFO - Verified message
+2023-07-25 18:32:37,125 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:32:37,570 - 11March_Framework -INFO - add to cart test case failed
+2023-07-25 18:34:37,126 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:34:37,255 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:34:38,320 - 11March_Framework -INFO - Open application
+2023-07-25 18:34:38,344 - 11March_Framework -INFO - Open URL
+2023-07-25 18:34:41,526 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:34:44,635 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:34:49,705 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:34:52,864 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:35:58,614 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:36:23,943 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:36:24,072 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:36:25,983 - 11March_Framework -INFO - Open application
+2023-07-25 18:36:25,999 - 11March_Framework -INFO - Open URL
+2023-07-25 18:36:29,158 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:36:32,271 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:36:37,283 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:36:40,442 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:36:42,281 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:36:48,367 - 11March_Framework -INFO - Product selected
+2023-07-25 18:36:48,465 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:36:49,024 - 11March_Framework -INFO - Verified message
+2023-07-25 18:36:49,116 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:36:49,356 - 11March_Framework -INFO - add to cart test case pass
+2023-07-25 18:38:07,508 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:38:07,637 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:38:09,812 - 11March_Framework -INFO - Open application
+2023-07-25 18:38:09,829 - 11March_Framework -INFO - Open URL
+2023-07-25 18:38:12,996 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:38:16,106 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:38:23,817 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:38:26,974 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:38:28,202 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:38:34,217 - 11March_Framework -INFO - Product selected
+2023-07-25 18:38:34,316 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:38:34,884 - 11March_Framework -INFO - Verified message
+2023-07-25 18:38:34,988 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:38:35,215 - 11March_Framework -INFO - add to cart test case pass
+2023-07-25 18:38:39,761 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:38:39,919 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:38:43,461 - 11March_Framework -INFO - Open application
+2023-07-25 18:38:43,588 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:38:45,696 - 11March_Framework -INFO - Enter the user Password
+2023-07-25 18:38:47,798 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:38:47,816 - 11March_Framework -INFO - Login test case pass
+2023-07-25 18:38:53,578 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:38:53,730 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:38:57,489 - 11March_Framework -INFO - Open application
+2023-07-25 18:38:57,605 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:38:59,709 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:39:00,295 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:39:04,818 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:04,936 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:06,173 - 11March_Framework -INFO - Open application
+2023-07-25 18:39:06,315 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:39:08,424 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:39:08,894 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:39:09,043 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:39:13,402 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:13,564 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:15,536 - 11March_Framework -INFO - Open application
+2023-07-25 18:39:15,661 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:39:17,776 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:39:19,222 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:39:19,238 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:39:23,822 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:23,964 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:25,888 - 11March_Framework -INFO - Open application
+2023-07-25 18:39:26,001 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:39:28,090 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:39:28,899 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:39:28,916 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:39:33,722 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:33,906 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:35,784 - 11March_Framework -INFO - Open application
+2023-07-25 18:39:35,927 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:39:42,131 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:42,261 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:43,411 - 11March_Framework -INFO - Open application
+2023-07-25 18:39:52,705 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:39:52,842 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:39:54,025 - 11March_Framework -INFO - Open application
+2023-07-25 18:40:56,315 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:40:56,457 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:40:58,334 - 11March_Framework -INFO - Open application
+2023-07-25 18:40:58,350 - 11March_Framework -INFO - Open URL
+2023-07-25 18:41:01,496 - 11March_Framework -INFO - Enter User mail
+2023-07-25 18:41:04,612 - 11March_Framework -INFO - Enter User password
+2023-07-25 18:41:09,661 - 11March_Framework -INFO - Clicked on login button
+2023-07-25 18:41:12,823 - 11March_Framework -INFO - Mouseover on computer
+2023-07-25 18:41:13,941 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-25 18:41:22,340 - 11March_Framework -INFO - Product selected
+2023-07-25 18:41:22,428 - 11March_Framework -INFO - Add to cart
+2023-07-25 18:41:23,041 - 11March_Framework -INFO - Verified message
+2023-07-25 18:41:23,131 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-25 18:41:23,462 - 11March_Framework -INFO - add to cart test case pass
+2023-07-25 18:41:28,149 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:41:28,277 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:41:31,235 - 11March_Framework -INFO - Open application
+2023-07-25 18:41:31,362 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:41:33,467 - 11March_Framework -INFO - Enter the user Password
+2023-07-25 18:41:34,679 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:41:34,699 - 11March_Framework -INFO - Login test case pass
+2023-07-25 18:41:40,701 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:41:40,824 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:41:42,200 - 11March_Framework -INFO - Open application
+2023-07-25 18:41:42,333 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:41:44,438 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:41:46,442 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:41:47,584 - 11March_Framework -INFO - Login test case pass
+2023-07-25 18:41:52,092 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:41:52,218 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:41:54,133 - 11March_Framework -INFO - Open application
+2023-07-25 18:41:54,243 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:41:56,355 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:41:57,757 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:41:57,775 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:42:02,252 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:42:02,403 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:42:08,111 - 11March_Framework -INFO - Open application
+2023-07-25 18:42:08,235 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:42:10,351 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:42:12,340 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:42:12,355 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:42:16,696 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:42:16,818 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:42:26,103 - 11March_Framework -INFO - Open application
+2023-07-25 18:42:26,232 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:42:28,337 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:42:28,807 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:42:28,947 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:42:33,354 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:42:33,488 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:42:34,605 - 11March_Framework -INFO - Open application
+2023-07-25 18:42:34,720 - 11March_Framework -INFO - Enter the user email
+2023-07-25 18:42:36,874 - 11March_Framework -INFO - Enter the user password
+2023-07-25 18:42:38,342 - 11March_Framework -INFO - Click on the login button
+2023-07-25 18:42:38,355 - 11March_Framework -INFO - Login test case failed
+2023-07-25 18:42:42,745 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:42:42,888 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:42:44,156 - 11March_Framework -INFO - Open application
+2023-07-25 18:42:50,874 - 11March_Framework -INFO - Open Browser
+2023-07-25 18:42:50,998 - 11March_Framework -INFO - Maximize the browser
+2023-07-25 18:42:52,767 - 11March_Framework -INFO - Open application
+2023-07-27 11:24:45,050 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:24:45,220 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:24:47,025 - 11March_Framework -INFO - Open application
+2023-07-27 11:32:06,216 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:32:06,350 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:32:09,296 - 11March_Framework -INFO - Open application
+2023-07-27 11:32:17,328 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:32:17,476 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:32:19,295 - 11March_Framework -INFO - Open application
+2023-07-27 11:32:19,298 - 11March_Framework -INFO - Open URL
+2023-07-27 11:32:22,417 - 11March_Framework -INFO - Enter User mail
+2023-07-27 11:32:25,528 - 11March_Framework -INFO - Enter User password
+2023-07-27 11:32:31,134 - 11March_Framework -INFO - Clicked on login button
+2023-07-27 11:32:34,401 - 11March_Framework -INFO - Mouseover on computer
+2023-07-27 11:32:36,783 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-27 11:32:43,285 - 11March_Framework -INFO - Product selected
+2023-07-27 11:32:43,382 - 11March_Framework -INFO - Add to cart
+2023-07-27 11:32:44,046 - 11March_Framework -INFO - Verified message
+2023-07-27 11:32:44,536 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-27 11:32:44,951 - 11March_Framework -INFO - add to cart test case pass
+2023-07-27 11:32:49,116 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:32:49,249 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:32:51,883 - 11March_Framework -INFO - Open application
+2023-07-27 11:32:52,034 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:32:54,230 - 11March_Framework -INFO - Enter the user Password
+2023-07-27 11:32:55,937 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:32:55,950 - 11March_Framework -INFO - Login test case pass
+2023-07-27 11:33:01,621 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:01,754 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:03,637 - 11March_Framework -INFO - Open application
+2023-07-27 11:33:03,836 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:33:05,942 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:33:07,416 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:33:11,666 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:11,804 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:13,826 - 11March_Framework -INFO - Open application
+2023-07-27 11:33:14,035 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:33:16,353 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:33:17,845 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:33:17,854 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:33:22,101 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:22,220 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:24,060 - 11March_Framework -INFO - Open application
+2023-07-27 11:33:24,304 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:33:26,406 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:33:27,891 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:33:27,897 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:33:31,996 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:32,133 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:34,126 - 11March_Framework -INFO - Open application
+2023-07-27 11:33:34,347 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:33:36,658 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:33:37,423 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:33:37,616 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:33:41,717 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:41,839 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:44,184 - 11March_Framework -INFO - Open application
+2023-07-27 11:33:44,331 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:33:46,619 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:33:47,569 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:33:47,588 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:33:51,750 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:33:51,884 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:33:54,801 - 11March_Framework -INFO - Open application
+2023-07-27 11:39:15,370 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:39:15,498 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:39:18,222 - 11March_Framework -INFO - Open application
+2023-07-27 11:39:25,773 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:39:25,898 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:39:27,313 - 11March_Framework -INFO - Open application
+2023-07-27 11:39:27,316 - 11March_Framework -INFO - Open URL
+2023-07-27 11:39:30,456 - 11March_Framework -INFO - Enter User mail
+2023-07-27 11:39:33,557 - 11March_Framework -INFO - Enter User password
+2023-07-27 11:39:39,315 - 11March_Framework -INFO - Clicked on login button
+2023-07-27 11:39:42,529 - 11March_Framework -INFO - Mouseover on computer
+2023-07-27 11:39:44,882 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-27 11:39:51,889 - 11March_Framework -INFO - Product selected
+2023-07-27 11:39:51,980 - 11March_Framework -INFO - Add to cart
+2023-07-27 11:39:52,556 - 11March_Framework -INFO - Verified message
+2023-07-27 11:39:52,630 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-27 11:39:52,871 - 11March_Framework -INFO - add to cart test case pass
+2023-07-27 11:39:57,153 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:39:57,282 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:39:59,532 - 11March_Framework -INFO - Open application
+2023-07-27 11:39:59,645 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:01,749 - 11March_Framework -INFO - Enter the user Password
+2023-07-27 11:40:04,608 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:04,623 - 11March_Framework -INFO - Login test case pass
+2023-07-27 11:40:10,202 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:40:10,330 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:40:12,262 - 11March_Framework -INFO - Open application
+2023-07-27 11:40:12,369 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:14,471 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:40:17,527 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:18,607 - 11March_Framework -INFO - Login test case pass
+2023-07-27 11:40:22,888 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:40:23,026 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:40:25,610 - 11March_Framework -INFO - Open application
+2023-07-27 11:40:25,711 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:27,805 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:40:28,397 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:28,420 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:40:32,764 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:40:32,886 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:40:36,990 - 11March_Framework -INFO - Open application
+2023-07-27 11:40:37,103 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:39,212 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:40:39,727 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:39,836 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:40:44,303 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:40:44,441 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:40:45,845 - 11March_Framework -INFO - Open application
+2023-07-27 11:40:45,942 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:48,089 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:40:49,487 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:49,502 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:40:53,852 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:40:53,982 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:40:55,842 - 11March_Framework -INFO - Open application
+2023-07-27 11:40:55,954 - 11March_Framework -INFO - Enter the user email
+2023-07-27 11:40:58,065 - 11March_Framework -INFO - Enter the user password
+2023-07-27 11:40:59,452 - 11March_Framework -INFO - Click on the login button
+2023-07-27 11:40:59,464 - 11March_Framework -INFO - Login test case failed
+2023-07-27 11:41:03,769 - 11March_Framework -INFO - Open Browser
+2023-07-27 11:41:03,894 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 11:41:06,551 - 11March_Framework -INFO - Open application
+2023-07-27 17:10:28,447 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:10:28,588 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:10:30,993 - 11March_Framework -INFO - Open application
+2023-07-27 17:10:31,171 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:10:33,410 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:10:34,905 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:10:39,221 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:10:39,354 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:10:44,663 - 11March_Framework -INFO - Open application
+2023-07-27 17:10:44,768 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:10:46,990 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:10:47,868 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:10:47,892 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:10:52,132 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:10:52,262 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:10:54,395 - 11March_Framework -INFO - Open application
+2023-07-27 17:10:54,511 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:10:56,788 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:10:58,533 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:10:58,546 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:11:02,806 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:11:02,942 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:11:04,157 - 11March_Framework -INFO - Open application
+2023-07-27 17:11:04,292 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:11:06,394 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:11:08,027 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:11:08,046 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:11:12,357 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:11:12,491 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:11:13,870 - 11March_Framework -INFO - Open application
+2023-07-27 17:11:14,097 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:11:16,239 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:11:17,165 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:11:17,178 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:24:21,904 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:24:22,297 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:24:27,047 - 11March_Framework -INFO - Open application
+2023-07-27 17:24:27,549 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:24:29,883 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:24:31,299 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:24:36,037 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:24:36,175 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:24:40,239 - 11March_Framework -INFO - Open application
+2023-07-27 17:24:40,398 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:24:42,617 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:24:44,067 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:24:44,097 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:24:48,741 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:24:48,959 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:24:51,649 - 11March_Framework -INFO - Open application
+2023-07-27 17:24:51,840 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:24:54,123 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:24:54,733 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:24:54,906 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:24:59,404 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:24:59,669 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:25:01,197 - 11March_Framework -INFO - Open application
+2023-07-27 17:25:01,329 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:25:03,577 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:25:04,144 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:25:04,288 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:28:02,030 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:28:02,174 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:28:05,105 - 11March_Framework -INFO - Open application
+2023-07-27 17:28:05,412 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:28:07,685 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:28:10,953 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:28:12,231 - 11March_Framework -INFO - Login test case pass
+2023-07-27 17:28:17,079 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:28:17,223 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:28:19,111 - 11March_Framework -INFO - Open application
+2023-07-27 17:28:19,295 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:28:21,511 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:28:22,227 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:28:22,260 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:28:26,740 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:28:26,896 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:28:29,786 - 11March_Framework -INFO - Open application
+2023-07-27 17:28:29,977 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:28:32,206 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:28:33,667 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:28:33,682 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:28:38,006 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:28:38,149 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:28:41,688 - 11March_Framework -INFO - Open application
+2023-07-27 17:28:41,954 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:28:44,193 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:28:45,670 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:28:45,687 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:28:50,084 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:28:50,218 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:28:53,508 - 11March_Framework -INFO - Open application
+2023-07-27 17:28:53,786 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:28:56,027 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:28:56,829 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:28:56,846 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:30:05,576 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:30:05,719 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:30:08,020 - 11March_Framework -INFO - Open application
+2023-07-27 17:30:08,180 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:30:10,552 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:30:13,690 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:30:15,181 - 11March_Framework -INFO - Login test case pass
+2023-07-27 17:30:19,990 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:30:20,167 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:30:23,742 - 11March_Framework -INFO - Open application
+2023-07-27 17:30:23,912 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:30:26,190 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:30:27,049 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:30:27,077 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:30:31,585 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:30:31,722 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:30:34,792 - 11March_Framework -INFO - Open application
+2023-07-27 17:30:35,013 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:30:37,183 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:30:38,646 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:30:38,670 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:30:43,020 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:30:43,160 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:30:46,667 - 11March_Framework -INFO - Open application
+2023-07-27 17:30:46,828 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:30:49,067 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:30:50,700 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:30:50,729 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:30:55,089 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:30:55,310 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:30:58,578 - 11March_Framework -INFO - Open application
+2023-07-27 17:30:58,757 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:31:01,022 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:31:01,955 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:31:01,970 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:33:07,771 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:33:07,928 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:33:12,453 - 11March_Framework -INFO - Open application
+2023-07-27 17:33:12,616 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:33:14,737 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:33:17,861 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:33:19,044 - 11March_Framework -INFO - Login test case pass
+2023-07-27 17:33:23,658 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:33:23,794 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:33:27,205 - 11March_Framework -INFO - Open application
+2023-07-27 17:33:27,331 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:33:29,451 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:33:30,902 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:33:30,931 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:33:35,363 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:33:35,507 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:33:39,308 - 11March_Framework -INFO - Open application
+2023-07-27 17:33:39,478 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:33:41,725 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:33:43,248 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:33:43,269 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:33:47,677 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:33:47,819 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:33:50,506 - 11March_Framework -INFO - Open application
+2023-07-27 17:33:50,761 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:33:52,993 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:33:54,461 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:33:54,484 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:33:58,999 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:33:59,139 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:34:01,448 - 11March_Framework -INFO - Open application
+2023-07-27 17:34:01,613 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:34:03,897 - 11March_Framework -INFO - Enter the user password
+2023-07-27 17:34:04,479 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:34:04,741 - 11March_Framework -INFO - Login test case failed
+2023-07-27 17:34:09,348 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:34:09,487 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:34:11,932 - 11March_Framework -INFO - Open application
+2023-07-27 17:34:19,985 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:34:20,128 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:34:23,725 - 11March_Framework -INFO - Open application
+2023-07-27 17:34:23,729 - 11March_Framework -INFO - Open URL
+2023-07-27 17:34:26,913 - 11March_Framework -INFO - Enter User mail
+2023-07-27 17:34:30,031 - 11March_Framework -INFO - Enter User password
+2023-07-27 17:34:36,523 - 11March_Framework -INFO - Clicked on login button
+2023-07-27 17:34:39,774 - 11March_Framework -INFO - Mouseover on computer
+2023-07-27 17:34:46,328 - 11March_Framework -INFO - Clicked on NotebookText
+2023-07-27 17:34:53,306 - 11March_Framework -INFO - Product selected
+2023-07-27 17:34:53,453 - 11March_Framework -INFO - Add to cart
+2023-07-27 17:34:54,451 - 11March_Framework -INFO - Verified message
+2023-07-27 17:34:54,552 - 11March_Framework -INFO - Clicked on close Tab
+2023-07-27 17:34:55,196 - 11March_Framework -INFO - add to cart test case pass
+2023-07-27 17:34:59,779 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:34:59,917 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:35:02,529 - 11March_Framework -INFO - Open application
+2023-07-27 17:35:02,675 - 11March_Framework -INFO - Enter the user email
+2023-07-27 17:35:04,948 - 11March_Framework -INFO - Enter the user Password
+2023-07-27 17:35:08,659 - 11March_Framework -INFO - Click on the login button
+2023-07-27 17:35:08,669 - 11March_Framework -INFO - Login test case pass
+2023-07-27 17:35:13,086 - 11March_Framework -INFO - Open Browser
+2023-07-27 17:35:13,226 - 11March_Framework -INFO - Maximize the browser
+2023-07-27 17:35:17,126 - 11March_Framework -INFO - Open application

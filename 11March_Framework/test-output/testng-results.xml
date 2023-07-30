@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-27T17:27:57 IST" name="Suite" finished-at="2023-07-27T17:29:00 IST" duration-ms="62529">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T17:27:57 IST" name="Test" finished-at="2023-07-27T17:29:00 IST" duration-ms="62529">
+      <class name="Com.Ecommerce.TestCases.TC_LoginDataTest">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:27:59 IST" name="initialization" finished-at="2023-07-27T17:28:05 IST" duration-ms="5601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:05 IST" name="LoginData" data-provider="Logindata" finished-at="2023-07-27T17:28:12 IST" duration-ms="7126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aditya11111@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aditya@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:12 IST" name="Teardown" finished-at="2023-07-27T17:28:15 IST" duration-ms="3601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:15 IST" name="initialization" finished-at="2023-07-27T17:28:19 IST" duration-ms="3254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:19 IST" name="LoginData" data-provider="Logindata" finished-at="2023-07-27T17:28:22 IST" duration-ms="3148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akash@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:22 IST" name="Teardown" finished-at="2023-07-27T17:28:25 IST" duration-ms="3316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:25 IST" name="initialization" finished-at="2023-07-27T17:28:29 IST" duration-ms="4206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:29 IST" name="LoginData" data-provider="Logindata" finished-at="2023-07-27T17:28:33 IST" duration-ms="3894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akas1h@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:33 IST" name="Teardown" finished-at="2023-07-27T17:28:36 IST" duration-ms="3289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:36 IST" name="initialization" finished-at="2023-07-27T17:28:41 IST" duration-ms="4714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:41 IST" name="LoginData" data-provider="Logindata" finished-at="2023-07-27T17:28:45 IST" duration-ms="3999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akas@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akas@1236]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:45 IST" name="Teardown" finished-at="2023-07-27T17:28:48 IST" duration-ms="3259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:48 IST" name="initialization" finished-at="2023-07-27T17:28:53 IST" duration-ms="4561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:53 IST" name="LoginData" data-provider="Logindata" finished-at="2023-07-27T17:28:56 IST" duration-ms="3335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akash@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@12371]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommerce.TestCases.TC_LoginDataTest@31920ade]" started-at="2023-07-27T17:28:56 IST" name="Teardown" finished-at="2023-07-27T17:29:00 IST" duration-ms="3329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommerce.TestCases.TC_LoginDataTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
